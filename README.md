@@ -1,7 +1,7 @@
 # nlp_machine_learning
 
 Repo for Natural Language Processing and image classification projects. 
-- Using Machine Learning for Automatic Text summarization: https://github.com/geraldlab/nlp_machine_learning/blob/main/Text_summarizer.ipynb
+- Using Machine Learning for Automatic Text Summarization (Abstractive & Extractive‪s Summaries): https://github.com/geraldlab/nlp_machine_learning/blob/main/Text_summarizer.ipynb
 
 Notebooks also in kaggle:
 - Cassava leaf disease classification: https://www.kaggle.com/geraldk/cassava-leaf-disease-classification
