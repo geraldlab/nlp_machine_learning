@@ -1,4 +1,4 @@
-# nlp_machine_learning
+# Machine learning: NLP and DL
 
 Repo for Natural Language Processing and image classification projects. 
 - Using Machine Learning for Automatic Text Summarization (Abstractive & Extractive‪s Summaries): https://github.com/geraldlab/nlp_machine_learning/blob/main/Text_summarizer.ipynb
