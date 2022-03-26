@@ -4,6 +4,7 @@ Repo for Natural Language Processing and image classification projects.
 - Using Machine Learning for Automatic Text Summarization (Abstractive & Extractive‪s Summaries): https://github.com/geraldlab/nlp_machine_learning/blob/main/Text_summarizer.ipynb
 
 Notebooks also in kaggle:
+- Evaluating student writing: https://www.kaggle.com/code/geraldk/evaluatingstudentwriting
 - Cassava leaf disease classification: https://www.kaggle.com/geraldk/cassava-leaf-disease-classification
 - Classify tweets using LSTM and GloVe embeddings: https://www.kaggle.com/geraldk/classify-tweets-using-lstm-and-glove-embeddings
 - Hotel bookings - EDA & predictive modelling: https://www.kaggle.com/geraldk/hotel-bookings-eda-predictive-modelling
